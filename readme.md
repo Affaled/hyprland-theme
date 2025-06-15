@@ -2,3 +2,9 @@ Apenas crie links simbólicos das pastas de ~/.config/ para as pastas aqui de de
 
 exemplo:
 `ln -s ~/.config/hypr ~/hyprland-theme/hypr`
+
+## Programas
+
+- kitty
+- dolphin
+- hyprpaper
